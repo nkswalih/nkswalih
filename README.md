@@ -51,7 +51,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nkswalih?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/nkswalih?label=Followers&-green?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/nkswalih?label=Stars&-green?style=for-the-badge"/>
 </p>
 
