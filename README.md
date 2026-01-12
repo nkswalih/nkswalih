@@ -36,16 +36,16 @@
 
 ## 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/mohammedswalihnk">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:swalink555@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/swwaliih">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+    <a href="https://linkedin.com/in/mohammedswalihnk" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" style="border-radius: 50px;"/>
+    </a>
+    <a href="mailto:swalink555@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" />
+    </a>
+    <a href="https://instagram.com/swwaliih" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" />
+    </a>
+  </p>>
 
 ---
 
