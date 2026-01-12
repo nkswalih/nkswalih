@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Skills (Animated & Modern)
+## 🛠️ Skills 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,python,git,github,figma&theme=dark" />
