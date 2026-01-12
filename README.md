@@ -51,8 +51,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nkswalih?label=Followers&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/nkswalih?label=Stars&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repos-{{REPO_COUNT}}-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Followers-{{FOLLOWERS}}-green?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nkswalih&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 📈 Activity
