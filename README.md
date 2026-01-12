@@ -19,7 +19,7 @@
 
 ---
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
 - 💼 Frontend Intern at **Bridgeon**
 - 🎨 Building **animated, interactive, modern web experiences**
 - 🧠 Focused on **Full-Stack growth**
@@ -55,7 +55,7 @@
 
 ---
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkswalih&theme=tokyonight&hide_border=true"/>
 </p>
