@@ -5,6 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=nkswalih&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/nkswalih?label=Followers&-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/nkswalih?label=Stars&-green?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -44,10 +49,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://img.shields.io/github/followers/nkswalih?label=Followers&-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/nkswalih?label=Stars&-green?style=for-the-badge"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nkswalih&show_icons=true&theme=tokyonight&hide_border=true"/>
