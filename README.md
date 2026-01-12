@@ -51,7 +51,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkswalih&theme=tokyo-night&hide_border=true"/>
+  <img src="https://img.shields.io/github/followers/nkswalih?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/nkswalih?label=Stars&style=for-the-badge"/>
 </p>
 
 ## 📈 Activity
