@@ -36,7 +36,7 @@
 
 ## 🌍 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/mohammedswalihnk"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/mohammedswalihnk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" style="border-radius: 50px;"/></a>
 <a href="mailto:swalink555@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Email"></a>
 <a href="https://instagram.com/swwaliih"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Instagram"></a>
 </p>
