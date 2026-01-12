@@ -3,6 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nkswalih&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/DenverCoder1"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 </p>
 
 <p align="center">
@@ -41,10 +43,6 @@
 
 ## 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/mohammedswalihnk">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-</a>
-
 <a href="https://linkedin.com/in/mohammedswalihnk"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"></a>
 <a href="mailto:swalink555@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Email"></a>
 <a href="https://instagram.com/swwaliih"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Instagram"></a>
