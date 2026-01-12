@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Swalih NK</h1>
-<h3 align="center">Frontend Developer | GSAP & Three.js Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer | Python | React.js | Javascript</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nkswalih&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 💼 Frontend Intern at **Bridgeon**
 - 🎨 Building **animated, interactive, modern web experiences**
-- 🧠 Focused on **GSAP, Three.js & Full-Stack growth**
+- 🧠 Focused on **Full-Stack growth**
 - 🎯 Goal: Create **visually stunning + high-performance apps**
 
 ---
