@@ -48,9 +48,9 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThlMWR2aTk5MG52cGVkdGVnYzhwbmJpMmc4cDgwZXJoY3RudTJpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ir5ognfMO0xh5TAzT/giphy.gif" width ="25"><b> Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/mohammedswalihnk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin" height="50" width="50" /></a>
-  <a href="mailto:swalink555@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="email" height="50" width="50" /></a>
-  <a href="https://instagram.com/swwaliih" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram" height="50" width="50" /></a>
+  <a href="https://linkedin.com/in/mohammedswalihnk" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-follow.png" alt="linkedin" height="100" width="100" /></a>
+  <a href="mailto:swalink555@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="email" height="50" width="50" /></a>
+  <a href="https://instagram.com/swwaliih" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-follow.png" alt="instagram" height="100" width="100" /></a>
 </p>
 
 ---
@@ -59,7 +59,7 @@
 <p align="center">
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkswalih&theme=react&hide_border=true" /> -->
 
-  <img src="https://leetcard.jacoblin.cool/swalih_nk?font=patrick_hand" alt="LeetCode Stats" width="44%" />
+  <img src="https://leetcard.jacoblin.cool/swalih_nk?font=patrick_hand" alt="LeetCode Stats" width="55%" />
 </p>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU2NXE5Y2hyZTFiazVhdGs5c2F4b2cwZW42ZG1kdTJtNXdiYzEweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hZE5xoaM0Oxw4xiqH7/giphy.gif" width ="25"><b> Activity
