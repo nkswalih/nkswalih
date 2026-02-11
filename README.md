@@ -9,7 +9,7 @@
 
 <p align="center">
   <!-- <a href="https://github.com/nkswalih"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nkswalih?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a> -->
-  <a href="https://github.com/nkswalih"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+  <!-- <a href="https://github.com/nkswalih"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a> -->
 </p>
 
 <p align="center">
