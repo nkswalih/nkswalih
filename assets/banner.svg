@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="70%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff"/>
-      <stop offset="55%" style="stop-color:#d6eeff"/>
-      <stop offset="100%" style="stop-color:#b8d8f5"/>
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="55%" style="stop-color:#0d1f2d"/>
+      <stop offset="100%" style="stop-color:#0a1a2e"/>
     </linearGradient>
   </defs>
 
@@ -11,73 +11,66 @@
   <rect width="1500" height="420" fill="url(#bgGrad)"/>
 
   <!-- Top-left label -->
-  <text x="50" y="55" font-family="Courier New, Courier, monospace" font-size="18" font-weight="bold" fill="#444444">↘ Let's Connect</text>
+  <text x="50" y="55" font-family="Courier New, Courier, monospace" font-size="18" font-weight="bold" fill="#8b949e">↘ Let's Connect</text>
 
   <!-- Decorative asterisk large -->
   <g transform="translate(1390,230)">
-    <line x1="0" y1="-30" x2="0" y2="30" stroke="#b0cfe0" stroke-width="3" stroke-linecap="round"/>
-    <line x1="-30" y1="0" x2="30" y2="0" stroke="#b0cfe0" stroke-width="3" stroke-linecap="round"/>
-    <line x1="-21" y1="-21" x2="21" y2="21" stroke="#b0cfe0" stroke-width="3" stroke-linecap="round"/>
-    <line x1="21" y1="-21" x2="-21" y2="21" stroke="#b0cfe0" stroke-width="3" stroke-linecap="round"/>
+    <line x1="0" y1="-30" x2="0" y2="30" stroke="#1f3a52" stroke-width="3" stroke-linecap="round"/>
+    <line x1="-30" y1="0" x2="30" y2="0" stroke="#1f3a52" stroke-width="3" stroke-linecap="round"/>
+    <line x1="-21" y1="-21" x2="21" y2="21" stroke="#1f3a52" stroke-width="3" stroke-linecap="round"/>
+    <line x1="21" y1="-21" x2="-21" y2="21" stroke="#1f3a52" stroke-width="3" stroke-linecap="round"/>
   </g>
 
   <!-- Decorative asterisk small -->
   <g transform="translate(1340,160)">
-    <line x1="0" y1="-14" x2="0" y2="14" stroke="#b0cfe0" stroke-width="2" stroke-linecap="round"/>
-    <line x1="-14" y1="0" x2="14" y2="0" stroke="#b0cfe0" stroke-width="2" stroke-linecap="round"/>
-    <line x1="-10" y1="-10" x2="10" y2="10" stroke="#b0cfe0" stroke-width="2" stroke-linecap="round"/>
-    <line x1="10" y1="-10" x2="-10" y2="10" stroke="#b0cfe0" stroke-width="2" stroke-linecap="round"/>
+    <line x1="0" y1="-14" x2="0" y2="14" stroke="#1f3a52" stroke-width="2" stroke-linecap="round"/>
+    <line x1="-14" y1="0" x2="14" y2="0" stroke="#1f3a52" stroke-width="2" stroke-linecap="round"/>
+    <line x1="-10" y1="-10" x2="10" y2="10" stroke="#1f3a52" stroke-width="2" stroke-linecap="round"/>
+    <line x1="10" y1="-10" x2="-10" y2="10" stroke="#1f3a52" stroke-width="2" stroke-linecap="round"/>
   </g>
 
   <!-- Small blue asterisk near headline -->
   <g transform="translate(868,150)">
-    <line x1="0" y1="-8" x2="0" y2="8" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
-    <line x1="-8" y1="0" x2="8" y2="0" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
-    <line x1="-6" y1="-6" x2="6" y2="6" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
-    <line x1="6" y1="-6" x2="-6" y2="6" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="0" y1="-8" x2="0" y2="8" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="-8" y1="0" x2="8" y2="0" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="-6" y1="-6" x2="6" y2="6" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="6" y1="-6" x2="-6" y2="6" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
   </g>
 
   <!-- Headline line 1 -->
-  <text x="750" y="160" font-family="Courier New, Courier, monospace" font-size="70" font-weight="bold" fill="#111111" text-anchor="middle" letter-spacing="2">MOHAMMED SWALIH NK</text>
+  <text x="750" y="160" font-family="Courier New, Courier, monospace" font-size="70" font-weight="bold" fill="#e6edf3" text-anchor="middle" letter-spacing="2">MOHAMMED SWALIH NK</text>
 
   <!-- Headline line 2 -->
-  <text x="750" y="248" font-family="Courier New, Courier, monospace" font-size="70" font-weight="bold" fill="#111111" text-anchor="middle" letter-spacing="2">FULL STACK DEVELOPER</text>
+  <text x="750" y="248" font-family="Courier New, Courier, monospace" font-size="70" font-weight="bold" fill="#e6edf3" text-anchor="middle" letter-spacing="2">FULL STACK DEVELOPER</text>
 
-  <!--
-    5 pills, each 160px wide, gap 16px between
-    Total width = 5*160 + 4*16 = 800 + 64 = 864
-    Start x = (1500 - 864) / 2 = 318
-    Pill centers at: 318+80=398, 574, 750, 926, 1102
-  -->
-
-  <!-- Pill 1: Python (x=318) -->
-  <rect x="318" y="305" width="160" height="42" rx="21" fill="none" stroke="#000" stroke-width="1.5"/>
+  <!-- Pill 1: Python -->
+  <rect x="318" y="305" width="160" height="42" rx="21" fill="#161b22" stroke="#3776AB" stroke-width="1.5"/>
   <circle cx="347" cy="326" r="12" fill="#3776AB"/>
   <text x="347" y="330" font-family="Courier New, Courier, monospace" font-size="11" fill="white" text-anchor="middle" font-weight="bold">Py</text>
-  <text x="413" y="331" font-family="Courier New, Courier, monospace" font-size="15" fill="#222" text-anchor="middle">python</text>
+  <text x="413" y="331" font-family="Courier New, Courier, monospace" font-size="15" fill="#3776AB" text-anchor="middle">python</text>
 
-  <!-- Pill 2: Django (x=494) -->
-  <rect x="494" y="305" width="160" height="42" rx="21" fill="none" stroke="#000" stroke-width="1.5"/>
-  <circle cx="523" cy="326" r="12" fill="#092E20"/>
-  <text x="523" y="330" font-family="Courier New, Courier, monospace" font-size="11" fill="#44B78B" text-anchor="middle" font-weight="bold">Dj</text>
-  <text x="589" y="331" font-family="Courier New, Courier, monospace" font-size="15" fill="#222" text-anchor="middle">django</text>
+  <!-- Pill 2: Django -->
+  <rect x="494" y="305" width="160" height="42" rx="21" fill="#161b22" stroke="#44B78B" stroke-width="1.5"/>
+  <circle cx="523" cy="326" r="12" fill="#44B78B"/>
+  <text x="523" y="330" font-family="Courier New, Courier, monospace" font-size="11" fill="#092E20" text-anchor="middle" font-weight="bold">Dj</text>
+  <text x="589" y="331" font-family="Courier New, Courier, monospace" font-size="15" fill="#44B78B" text-anchor="middle">django</text>
 
-  <!-- Pill 3: PostgreSQL (x=670) -->
-  <rect x="670" y="305" width="160" height="42" rx="21" fill="none" stroke="#000" stroke-width="1.5"/>
+  <!-- Pill 3: PostgreSQL -->
+  <rect x="670" y="305" width="160" height="42" rx="21" fill="#161b22" stroke="#336791" stroke-width="1.5"/>
   <circle cx="699" cy="326" r="12" fill="#336791"/>
   <text x="699" y="330" font-family="Courier New, Courier, monospace" font-size="10" fill="white" text-anchor="middle" font-weight="bold">PG</text>
-  <text x="762" y="331" font-family="Courier New, Courier, monospace" font-size="13" fill="#222" text-anchor="middle">postgresql</text>
+  <text x="762" y="331" font-family="Courier New, Courier, monospace" font-size="13" fill="#336791" text-anchor="middle">postgresql</text>
 
-  <!-- Pill 4: React.js (x=846) -->
-  <rect x="846" y="305" width="160" height="42" rx="21" fill="none" stroke="#000" stroke-width="1.5"/>
-  <circle cx="875" cy="326" r="12" fill="#20232a"/>
-  <text x="875" y="331" font-family="Courier New, Courier, monospace" font-size="13" fill="#61DAFB" text-anchor="middle" font-weight="bold">R</text>
-  <text x="941" y="331" font-family="Courier New, Courier, monospace" font-size="15" fill="#222" text-anchor="middle">react.js</text>
+  <!-- Pill 4: React.js -->
+  <rect x="846" y="305" width="160" height="42" rx="21" fill="#161b22" stroke="#61DAFB" stroke-width="1.5"/>
+  <circle cx="875" cy="326" r="12" fill="#61DAFB"/>
+  <text x="875" y="331" font-family="Courier New, Courier, monospace" font-size="13" fill="#20232a" text-anchor="middle" font-weight="bold">R</text>
+  <text x="941" y="331" font-family="Courier New, Courier, monospace" font-size="15" fill="#61DAFB" text-anchor="middle">react.js</text>
 
-  <!-- Pill 5: JavaScript (x=1022) -->
-  <rect x="1022" y="305" width="160" height="42" rx="21" fill="none" stroke="#000" stroke-width="1.5"/>
+  <!-- Pill 5: JavaScript -->
+  <rect x="1022" y="305" width="160" height="42" rx="21" fill="#161b22" stroke="#F7DF1E" stroke-width="1.5"/>
   <rect x="1041" y="313" width="22" height="22" rx="3" fill="#F7DF1E"/>
   <text x="1052" y="329" font-family="Courier New, Courier, monospace" font-size="11" fill="#222" text-anchor="middle" font-weight="bold">JS</text>
-  <text x="1122" y="331" font-family="Courier New, Courier, monospace" font-size="14" fill="#222" text-anchor="middle">javascript</text>
+  <text x="1122" y="331" font-family="Courier New, Courier, monospace" font-size="14" fill="#F7DF1E" text-anchor="middle">javascript</text>
 
 </svg>
