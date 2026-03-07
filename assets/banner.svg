@@ -1,72 +1,64 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="400" viewBox="0 0 1500 400">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="60%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="60%" style="stop-color:#daeeff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#c2e4ff;stop-opacity:1" />
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="70%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="55%" style="stop-color:#d6eeff"/>
+      <stop offset="100%" style="stop-color:#b8d8f5"/>
     </linearGradient>
-
-    <!-- Snowflake / asterisk decorative shape -->
-    <g id="flake">
-      <line x1="0" y1="-22" x2="0" y2="22" stroke="#c5d8e8" stroke-width="2.5" stroke-linecap="round"/>
-      <line x1="-22" y1="0" x2="22" y2="0" stroke="#c5d8e8" stroke-width="2.5" stroke-linecap="round"/>
-      <line x1="-16" y1="-16" x2="16" y2="16" stroke="#c5d8e8" stroke-width="2.5" stroke-linecap="round"/>
-      <line x1="16" y1="-16" x2="-16" y2="16" stroke="#c5d8e8" stroke-width="2.5" stroke-linecap="round"/>
-    </g>
-
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&amp;family=Inter:wght@400;500&amp;display=swap');
-      .headline { font-family: 'Courier New', 'Courier', monospace; font-size: 78px; font-weight: 700; fill: #111111; letter-spacing: 2px; }
-      .label { font-family: 'Courier New', 'Courier', monospace; font-size: 15px; fill: #333333; }
-      .nav { font-family: 'Courier New', 'Courier', monospace; font-size: 14px; fill: #444444; letter-spacing: 1px; }
-      .pill-text { font-family: 'Courier New', 'Courier', monospace; font-size: 15px; fill: #222222; }
-    </style>
   </defs>
 
   <!-- Background -->
-  <rect width="1500" height="400" fill="url(#bgGrad)" rx="0"/>
+  <rect width="1500" height="400" fill="url(#bgGrad)"/>
 
-  <!-- Top-left nav label -->
-  <text x="50" y="52" class="nav">↘ Let's Connect</text>
+  <!-- Top-left label -->
+  <text x="50" y="55" font-family="Courier New, Courier, monospace" font-size="16" fill="#444444">↘ Let's Connect</text>
 
-  <!-- Large decorative asterisk top-right -->
-  <g transform="translate(1390, 230) scale(2.2)">
-    <use href="#flake"/>
+  <!-- Decorative asterisk top-right (large) -->
+  <g transform="translate(1390,230)">
+    <line x1="0" y1="-30" x2="0" y2="30" stroke="#b0cfe0" stroke-width="3" stroke-linecap="round"/>
+    <line x1="-30" y1="0" x2="30" y2="0" stroke="#b0cfe0" stroke-width="3" stroke-linecap="round"/>
+    <line x1="-21" y1="-21" x2="21" y2="21" stroke="#b0cfe0" stroke-width="3" stroke-linecap="round"/>
+    <line x1="21" y1="-21" x2="-21" y2="21" stroke="#b0cfe0" stroke-width="3" stroke-linecap="round"/>
   </g>
-  <!-- Smaller one slightly offset -->
-  <g transform="translate(1350, 170) scale(1.1)">
-    <use href="#flake"/>
+
+  <!-- Decorative asterisk small -->
+  <g transform="translate(1340,160)">
+    <line x1="0" y1="-14" x2="0" y2="14" stroke="#b0cfe0" stroke-width="2" stroke-linecap="round"/>
+    <line x1="-14" y1="0" x2="14" y2="0" stroke="#b0cfe0" stroke-width="2" stroke-linecap="round"/>
+    <line x1="-10" y1="-10" x2="10" y2="10" stroke="#b0cfe0" stroke-width="2" stroke-linecap="round"/>
+    <line x1="10" y1="-10" x2="-10" y2="10" stroke="#b0cfe0" stroke-width="2" stroke-linecap="round"/>
   </g>
 
-  <!-- Small blue asterisk near text (like in original) -->
-  <circle cx="862" cy="148" r="5" fill="#3b82f6"/>
-  <line x1="862" y1="135" x2="862" y2="161" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
-  <line x1="849" y1="148" x2="875" y2="148" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
-  <line x1="853" y1="139" x2="871" y2="157" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
-  <line x1="871" y1="139" x2="853" y2="157" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+  <!-- Small blue asterisk near headline -->
+  <g transform="translate(868,150)">
+    <line x1="0" y1="-8" x2="0" y2="8" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="-8" y1="0" x2="8" y2="0" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="-6" y1="-6" x2="6" y2="6" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="6" y1="-6" x2="-6" y2="6" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
 
-  <!-- Main headline line 1 -->
-  <text x="750" y="175" class="headline" text-anchor="middle">FIRST, SOLVE THE PROBLEM</text>
+  <!-- Headline line 1 -->
+  <text x="750" y="180" font-family="Courier New, Courier, monospace" font-size="80" font-weight="bold" fill="#111111" text-anchor="middle" letter-spacing="2">FIRST, SOLVE THE PROBLEM</text>
 
-  <!-- Main headline line 2 -->
-  <text x="750" y="268" class="headline" text-anchor="middle">THEN, WRITE THE CODE.</text>
+  <!-- Headline line 2 -->
+  <text x="750" y="272" font-family="Courier New, Courier, monospace" font-size="80" font-weight="bold" fill="#111111" text-anchor="middle" letter-spacing="2">THEN, WRITE THE CODE.</text>
 
-  <!-- Pills row -->
   <!-- Python pill -->
-  <rect x="518" y="300" width="148" height="38" rx="19" fill="none" stroke="#aaaaaa" stroke-width="1.5"/>
-  <!-- Python icon (simple colored circle placeholder) -->
-  <circle cx="543" cy="319" r="10" fill="#3776AB"/>
-  <text x="560" y="324" class="pill-text">python</text>
+  <rect x="510" y="305" width="150" height="40" rx="20" fill="none" stroke="#999" stroke-width="1.5"/>
+  <circle cx="537" cy="325" r="11" fill="#3776AB"/>
+  <text x="537" y="329" font-family="Courier New, Courier, monospace" font-size="11" fill="white" text-anchor="middle" font-weight="bold">Py</text>
+  <text x="600" y="330" font-family="Courier New, Courier, monospace" font-size="15" fill="#222" text-anchor="middle">python</text>
 
-  <!-- React.js pill -->
-  <rect x="682" y="300" width="148" height="38" rx="19" fill="none" stroke="#aaaaaa" stroke-width="1.5"/>
-  <circle cx="707" cy="319" r="10" fill="#61DAFB"/>
-  <text x="724" y="324" class="pill-text">react.js</text>
+  <!-- React pill -->
+  <rect x="678" y="305" width="155" height="40" rx="20" fill="none" stroke="#999" stroke-width="1.5"/>
+  <circle cx="705" cy="325" r="11" fill="#20232a"/>
+  <text x="705" y="330" font-family="Courier New, Courier, monospace" font-size="13" fill="#61DAFB" text-anchor="middle" font-weight="bold">R</text>
+  <text x="770" y="330" font-family="Courier New, Courier, monospace" font-size="15" fill="#222" text-anchor="middle">react.js</text>
 
   <!-- JavaScript pill -->
-  <rect x="846" y="300" width="168" height="38" rx="19" fill="none" stroke="#aaaaaa" stroke-width="1.5"/>
-  <rect x="863" y="308" width="20" height="20" rx="3" fill="#F7DF1E"/>
-  <text x="856" y="326" font-family="monospace" font-size="13" font-weight="bold" fill="#222">JS</text>
-  <text x="890" y="324" class="pill-text">javascript</text>
+  <rect x="851" y="305" width="175" height="40" rx="20" fill="none" stroke="#999" stroke-width="1.5"/>
+  <rect x="868" y="313" width="22" height="22" rx="3" fill="#F7DF1E"/>
+  <text x="879" y="329" font-family="Courier New, Courier, monospace" font-size="11" fill="#222" text-anchor="middle" font-weight="bold">JS</text>
+  <text x="960" y="330" font-family="Courier New, Courier, monospace" font-size="15" fill="#222" text-anchor="middle">javascript</text>
 
 </svg>
