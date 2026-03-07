@@ -11,7 +11,7 @@
   <rect width="1500" height="400" fill="url(#bgGrad)"/>
 
   <!-- Top-left label -->
-  <text x="50" y="55" font-family="Courier New, Courier, monospace" font-size="18" fill="#444444">↘ Let's Connect</text>
+  <text x="50" y="55" font-family="Courier New, Courier, monospace" font-size="18" font-weight="bold" fill="#444444">↘ Let's Connect</text>
 
   <!-- Decorative asterisk top-right (large) -->
   <g transform="translate(1390,230)">
@@ -38,10 +38,10 @@
   </g>
 
   <!-- Headline line 1 -->
-  <text x="750" y="160" font-family="Courier New, Courier, monospace" font-size="70" font-weight="bold" fill="#111111" text-anchor="middle" letter-spacing="2">FIRST, SOLVE THE PROBLEM</text>
+  <text x="750" y="160" font-family="Courier New, Courier, monospace" font-size="70" font-weight="bold" fill="#111111" text-anchor="middle" letter-spacing="2">MOHAMMED SWALIH N K</text>
 
   <!-- Headline line 2 -->
-  <text x="750" y="242" font-family="Courier New, Courier, monospace" font-size="70" font-weight="bold" fill="#111111" text-anchor="middle" letter-spacing="2">THEN, WRITE THE CODE.</text>
+  <text x="750" y="242" font-family="Courier New, Courier, monospace" font-size="70" font-weight="bold" fill="#111111" text-anchor="middle" letter-spacing="2">FULL STACK DEVELOPER</text>
 
   <!-- Python pill -->
   <rect x="510" y="305" width="150" height="40" rx="20" fill="none" stroke="#999" stroke-width="1.5"/>
