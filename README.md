@@ -69,7 +69,7 @@
 <p align="center">
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkswalih&theme=react&hide_border=true" /> -->
 
-  <img src="https://leetcard.jacoblin.cool/swalih_nk?font=patrick_hand" alt="LeetCode Stats" width="55%" />
+  <img src="https://leetcard.jacoblin.cool/swalih_nk?font=sans-serif" alt="LeetCode Stats" width="55%" />
 </p>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU2NXE5Y2hyZTFiazVhdGs5c2F4b2cwZW42ZG1kdTJtNXdiYzEweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hZE5xoaM0Oxw4xiqH7/giphy.gif" width ="25"><b> Activity
