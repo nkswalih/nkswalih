@@ -10,7 +10,7 @@
 <h3 align="center"> React.js | Javascript</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stach%20Developer;Frontend%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45&color=39D353">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Frontend%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45&color=39D353">
 </a>
 </p>
 
