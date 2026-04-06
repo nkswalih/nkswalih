@@ -27,10 +27,10 @@
 ---
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
-- 💼 Full-Stack Intern at **Bridgeon**
-- ⚙️ Building scalable web applications with modern frontend & backend technologies
-- 🧠 Focused on backend architecture, API design, and system performance
-- 🎯 Goal: Develop production-ready, high-performance applications
+- Full-Stack Intern at **Bridgeon**
+- Building scalable web applications with modern frontend & backend technologies
+- Focused on backend architecture, API design, and system performance
+- Goal: Develop production-ready, high-performance applications
 
 ---
 
@@ -50,9 +50,9 @@
 ---
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJxbmsxOXdmcHB4YzI3MGp0ODFxd2s3cDJvM3RmNHk3dHpzd3dybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZbJCE0sGot1h4FZYK/giphy.gif" width ="25"><b> Currently Learning
-- ⚙️ **Django & DRF** – Production-ready REST APIs  
-- 🔐 **Auth & Role-Based Access** – Secure backend systems  
-- 🗄️ **PostgreSQL** – Data modeling & performance optimization  
+- **Django & DRF** – Production-ready REST APIs  
+- **Auth & Role-Based Access** – Secure backend systems  
+- **PostgreSQL** – Data modeling & performance optimization  
 
 ---
 
@@ -82,5 +82,5 @@
   <img src="https://raw.githubusercontent.com/nkswalih/nkswalih/output/github-contribution-grid-snake-dark.svg" alt="Alireza Rezvani GitHub contribution snake animation" />
 </div>
 <p align="center">
-  <i>Always learning. Always building. 🚀</i>
+  <i>Always learning. Always building. 📈</i>
 </p>
