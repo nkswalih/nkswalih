@@ -46,12 +46,38 @@ I have hands-on experience designing REST APIs, authentication systems, and role
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,vite,python,django,postgresql,sqlite,vercel,git,github,bootstrap&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=,linux,mint,notion,ps,postman,unity&theme=dark" />
-  </a>
-</p>
+
+  <table align="center">
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br>Python</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="48"/><br>Django</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br>SQLite</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48"/><br>React</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48"/><br>Redux Toolkit</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
+  </tr>
+
+
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48"/><br>AWS</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48"/><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>Vercel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mint" width="48"/><br>Mint</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=unity" width="48"/><br>Unity Engine</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
