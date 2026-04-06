@@ -77,7 +77,8 @@ I enjoy developing real-world applications with clean, maintainable code and eff
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU2NXE5Y2hyZTFiazVhdGs5c2F4b2cwZW42ZG1kdTJtNXdiYzEweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hZE5xoaM0Oxw4xiqH7/giphy.gif" width ="25"><b> Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkswalih&theme=react-dark&hide_border=true&area=true"/>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkswalih&theme=react-dark&hide_border=true&area=true"/> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkswalih&theme=github-compact&hide_border=true&area=true"/>
 </p>
 
 ---
