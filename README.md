@@ -21,8 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nkswalih?label=Followers&-green?style=for-the-badge"/>
-  <!-- <img src="https://img.shields.io/github/stars/nkswalih?label=Stars&-?style=for-the-badge"/> -->
+  <img src="https://img.shields.io/github/followers/nkswalih?label=Followers&style=for-the-badge&color=00c853" />
+  <img src="https://komarev.com/ghpvc/?username=nkswalih&label=Profile%20Views&style=for-the-badge&color=00c853" />
+  <img src="https://img.shields.io/github/stars/nkswalih?label=Stars&style=for-the-badge&color=00c853" />
 </p>
 
 ---
@@ -69,6 +70,7 @@ I enjoy developing real-world applications with clean, maintainable code and eff
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Stats
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkswalih&theme=react&hide_border=true" />
+ 
 
   <!-- <img src="https://leetcard.jacoblin.cool/swalih_nk?font=sans-serif" alt="LeetCode Stats" width="55%" /> -->
 </p>
