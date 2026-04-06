@@ -29,9 +29,10 @@
 ---
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
-I'm a Full-Stack Developer Intern at Bridgeon Solutions LLP, specializing in building scalable and production-ready web applications using modern frontend and backend technologies. I have hands-on experience with React.js, Django, and PostgreSQL, focusing on backend architecture, REST API design, authentication systems, and performance optimization.
+I’m a Full-Stack Developer Intern at Bridgeon Solutions LLP, experienced in building scalable and production-ready web applications using modern technologies. I work with Django, Django REST Framework, and PostgreSQL for backend development, and React.js, Redux Toolkit, and Tailwind CSS for creating responsive and user-friendly interfaces. I have also worked on integrating APIs and managing application state to ensure smooth data flow across the system.
 
-I enjoy developing real-world applications with clean, maintainable code and efficient system design. With a strong foundation in full-stack development, I’m continuously working toward becoming a backend-focused engineer capable of delivering high-performance and scalable solutions in production environments.
+I have hands-on experience designing REST APIs, authentication systems, and role-based access control, with a strong focus on clean architecture, performance, and maintainability. I enjoy solving real-world problems through efficient system design and structured development practices, and I continuously explore new technologies to improve scalability, reliability, and overall application performance.
+
 
 ---
 
