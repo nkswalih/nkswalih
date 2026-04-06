@@ -78,7 +78,9 @@
 </p>
 
 ---
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nkswalih/nkswalih/output/github-contribution-grid-snake-dark.svg" alt="Alireza Rezvani GitHub contribution snake animation" />
+</div>
 <p align="center">
   <i>Always learning. Always building. 🚀</i>
 </p>
