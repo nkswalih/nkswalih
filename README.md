@@ -83,5 +83,5 @@ I enjoy developing real-world applications with clean, maintainable code and eff
   <img src="https://raw.githubusercontent.com/nkswalih/nkswalih/output/github-contribution-grid-snake-dark.svg" alt="Alireza Rezvani GitHub contribution snake animation" />
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:64dd17&height=150&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer" width="100%" />
 </p>
