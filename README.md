@@ -2,6 +2,7 @@
 <!-- <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p> -->
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mohammed Swalih NK</h1>
 <p align="center">
   <img src="./assets/banner.svg" width="100%"/>
@@ -27,10 +28,17 @@
 ---
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
-- Full-Stack Intern at **Bridgeon**
-- Building scalable web applications with modern frontend & backend technologies
-- Focused on backend architecture, API design, and system performance
-- Goal: Develop production-ready, high-performance applications
+I'm a Full-Stack Developer Intern at Bridgeon Solutions LLP, specializing in building scalable and production-ready web applications using modern frontend and backend technologies. I have hands-on experience with React.js, Django, and PostgreSQL, focusing on backend architecture, REST API design, authentication systems, and performance optimization.
+
+I enjoy developing real-world applications with clean, maintainable code and efficient system design. With a strong foundation in full-stack development, I’m continuously working toward becoming a backend-focused engineer capable of delivering high-performance and scalable solutions in production environments.
+
+---
+
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJxbmsxOXdmcHB4YzI3MGp0ODFxd2s3cDJvM3RmNHk3dHpzd3dybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZbJCE0sGot1h4FZYK/giphy.gif" width ="25"><b> Currently Learning
+- FastAPI – High-performance API development & async architecture
+- AWS (Cloud Basics) – Deployment, scalability & cloud services
+- System Design Fundamentals – Building scalable backend systems
+- Advanced PostgreSQL – Query optimization & database performance 
 
 ---
 
@@ -49,13 +57,6 @@
 
 ---
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJxbmsxOXdmcHB4YzI3MGp0ODFxd2s3cDJvM3RmNHk3dHpzd3dybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZbJCE0sGot1h4FZYK/giphy.gif" width ="25"><b> Currently Learning
-- **Django & DRF** – Production-ready REST APIs  
-- **Auth & Role-Based Access** – Secure backend systems  
-- **PostgreSQL** – Data modeling & performance optimization  
-
----
-
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThlMWR2aTk5MG52cGVkdGVnYzhwbmJpMmc4cDgwZXJoY3RudTJpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ir5ognfMO0xh5TAzT/giphy.gif" width ="25"><b> Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/mohammedswalihnk" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-follow.png" alt="linkedin" height="100" width="100" /></a>
@@ -67,9 +68,9 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Stats
 <p align="center">
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkswalih&theme=react&hide_border=true" /> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkswalih&theme=react&hide_border=true" />
 
-  <img src="https://leetcard.jacoblin.cool/swalih_nk?font=sans-serif" alt="LeetCode Stats" width="55%" />
+  <!-- <img src="https://leetcard.jacoblin.cool/swalih_nk?font=sans-serif" alt="LeetCode Stats" width="55%" /> -->
 </p>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU2NXE5Y2hyZTFiazVhdGs5c2F4b2cwZW42ZG1kdTJtNXdiYzEweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hZE5xoaM0Oxw4xiqH7/giphy.gif" width ="25"><b> Activity
@@ -82,5 +83,5 @@
   <img src="https://raw.githubusercontent.com/nkswalih/nkswalih/output/github-contribution-grid-snake-dark.svg" alt="Alireza Rezvani GitHub contribution snake animation" />
 </div>
 <p align="center">
-  <i>Always learning. Always building. 📈</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:64dd17&height=150&section=footer" width="100%" />
 </p>
