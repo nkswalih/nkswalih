@@ -52,12 +52,25 @@ I have hands-on experience designing REST APIs, authentication systems, and role
     <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br>Python</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="48"/><br>Django</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48"/><br>RestAPI</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br>SQLite</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48"/><br>React</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48"/><br>Redux Toolkit</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48"/><br>AWS</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48"/><br>Docker</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48"/><br>Kubernetes</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48"/><br>Nginx</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>Vercel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/><br>JavaScript</td>
@@ -66,8 +79,6 @@ I have hands-on experience designing REST APIs, authentication systems, and role
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
   </tr>
-
-
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48"/><br>AWS</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48"/><br>Docker</td>
@@ -76,7 +87,8 @@ I have hands-on experience designing REST APIs, authentication systems, and role
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mint" width="48"/><br>Mint</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=unity" width="48"/><br>Unity Engine</td>
-  </tr>
+  </tr> -->
+  
 </table>
 
 <p align="center">
@@ -86,6 +98,7 @@ I have hands-on experience designing REST APIs, authentication systems, and role
 ---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThlMWR2aTk5MG52cGVkdGVnYzhwbmJpMmc4cDgwZXJoY3RudTJpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ir5ognfMO0xh5TAzT/giphy.gif" width ="25"><b> Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/mohammedswalihnk" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-follow.png" alt="linkedin" height="100" width="100" /></a>
   <a href="mailto:swalink555@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="email" height="50" width="50" /></a>
