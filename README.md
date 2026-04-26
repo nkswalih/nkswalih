@@ -125,6 +125,6 @@ I have hands-on experience designing REST APIs, authentication systems, and role
 <div align="center">
   <img src="https://raw.githubusercontent.com/nkswalih/nkswalih/output/github-contribution-grid-snake-dark.svg" alt="Alireza Rezvani GitHub contribution snake animation" />
 </div>
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer" width="100%" />
-</p>
+</p> -->
