@@ -43,6 +43,10 @@ I have hands-on experience designing REST APIs, authentication systems, and role
 - Advanced PostgreSQL – Query optimization & database performance 
 
 ---
+## Current Projects
+
+- 🐍 **[Kraivor](https://openclaw.ai)** - The AI that actually broke production projects for the sake of a score.
+- 🛒 **[Echoo Ecommerce](echoo-ecommerce.vercel.app)** - Tech Based Ecommerce Shopping Platform
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills 
 
@@ -99,10 +103,31 @@ I have hands-on experience designing REST APIs, authentication systems, and role
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThlMWR2aTk5MG52cGVkdGVnYzhwbmJpMmc4cDgwZXJoY3RudTJpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ir5ognfMO0xh5TAzT/giphy.gif" width ="25"><b> Connect With Me
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://linkedin.com/in/mohammedswalihnk" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-follow.png" alt="linkedin" height="100" width="100" /></a>
   <a href="mailto:swalink555@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="email" height="50" width="50" /></a>
   <a href="https://instagram.com/swwaliih" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-follow.png" alt="instagram" height="100" width="100" /></a>
+</p> -->
+<p align="center">
+  <a href="https://github.com/nkswalih" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/mohammedswalihnk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://twitter.com/swwaliih" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/swwaliih" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:swalink555@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
