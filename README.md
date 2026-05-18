@@ -7,8 +7,8 @@
 <p align="center">
   <img src="./assets/banner.svg" width="100%"/>
 </p>
-<h3 align="center">Aspiring Full Stack Developer | Python | Django | Postgresql</h3>
-<h3 align="center"> React.js | Javascript</h3>
+<h3 align="center">Full Stack Developer || Python || Django || Postgresql || Docker || AWS </h3>
+<h3 align="center"> React.js | Next.js | Zustand | Typescript | Javascript | Tailwind CSS | SEO</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Frontend%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45&color=39D353">
@@ -29,9 +29,20 @@
 ---
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
-I’m a Full-Stack Developer Intern at Bridgeon Solutions LLP, experienced in building scalable and production-ready web applications using modern technologies. I work with Django, Django REST Framework, and PostgreSQL for backend development, and React.js, Redux Toolkit, and Tailwind CSS for creating responsive and user-friendly interfaces. I have also worked on integrating APIs and managing application state to ensure smooth data flow across the system.
 
-I have hands-on experience designing REST APIs, authentication systems, and role-based access control, with a strong focus on clean architecture, performance, and maintainability. I enjoy solving real-world problems through efficient system design and structured development practices, and I continuously explore new technologies to improve scalability, reliability, and overall application performance.
+Hi, I'm Mohammed Swalih 👋  
+A Backend / Full Stack Developer passionate about building scalable web applications and production-ready systems.
+
+I primarily work with Python, Django, Django REST Framework, React, and PostgreSQL, with hands-on experience in REST APIs, JWT Authentication, Dockerized environments, and AWS deployments.
+
+I enjoy designing clean backend architectures, building secure authentication systems, and working on real-world full-stack applications. I’m also exploring microservices, distributed systems, CI/CD workflows, and scalable cloud infrastructure.
+
+### Tech Stack
+- Backend: Django, Django REST Framework, Python, FastAPI
+- Frontend: React.js, Next.js, Zustand, Tailwind CSS
+- Database: PostgreSQL, SQL
+- DevOps & Cloud: Docker, AWS EC2/RDS, Nginx, Gunicorn, GitHub Actions CI & CD
+- Tools: Git, Postman, Linux, VS Code, Antigravity
 
 
 ---
@@ -45,8 +56,9 @@ I have hands-on experience designing REST APIs, authentication systems, and role
 ---
 ## Current Projects
 
-- 🐍 **[Kraivor](https://openclaw.ai)** - The AI that actually broke production projects for the sake of a score.
-- 🛒 **[Echoo Ecommerce](echoo-ecommerce.vercel.app)** - Tech Based Ecommerce Shopping Platform
+- 🐍 **[Kraivor]()** - The AI that actually broke production projects for the sake of a score.
+- 🛒 **[Echoo Ecommerce](https://echoo-ecommerce.vercel.app)** - Tech Based Ecommerce Shopping Platform
+- 🧑‍🎓 **[Student Management Portal](https://django-student-management.vercel.app/)** - modern, full-featured Student Management System built with Django
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills 
 
@@ -95,9 +107,9 @@ I have hands-on experience designing REST APIs, authentication systems, and role
   
 </table>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
-</p>
+</p> -->
 
 ---
 
