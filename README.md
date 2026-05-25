@@ -56,7 +56,7 @@ I enjoy designing clean backend architectures, building secure authentication sy
 ---
 ## Current Projects
 
-- 🐍 **[Kraivor]()** - The AI that actually broke production projects for the sake of a score.
+- 🐍 **[Kraivor](https://github.com/nkswalih/kraivor)** - The Developer Inteligence Platform with Agentic AI.
 - 🛒 **[Echoo Ecommerce](https://echoo-ecommerce.vercel.app)** - Tech Based Ecommerce Shopping Platform
 - 🧑‍🎓 **[Student Management Portal](https://django-student-management.vercel.app/)** - modern, full-featured Student Management System built with Django
 
