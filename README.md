@@ -37,12 +37,18 @@ I primarily work with Python, Django, Django REST Framework, React, and PostgreS
 
 I enjoy designing clean backend architectures, building secure authentication systems, and working on real-world full-stack applications. I’m also exploring microservices, distributed systems, CI/CD workflows, and scalable cloud infrastructure.
 
-### Tech Stack
-- Backend: Django, Django REST Framework, Python, FastAPI
-- Frontend: React.js, Next.js, Zustand, Tailwind CSS
-- Database: PostgreSQL, SQL
-- DevOps & Cloud: Docker, AWS EC2/RDS, Nginx, Gunicorn, GitHub Actions CI & CD
-- Tools: Git, Postman, Linux, VS Code, Antigravity
+## Tech Stack
+
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python , JavaScript (ES6+), SQL |
+| Backend | Django, Django REST Framework, Python, FastAPI, Microservices Architecture, Apache Kafka, Celery |
+| Frontend | React.js, Next.js, Zustand, Tailwind CSS |
+| Database | PostgreSQL (Indexing, Query Optimization, Transactions), Redis |
+| DevOps & Cloud | Docker, AWS EC2/RDS, Nginx, Gunicorn, GitHub Actions CI & CD |
+| Observability | Prometheus, Grafana, Jaeger |
+
 
 
 ---
