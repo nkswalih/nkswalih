@@ -152,7 +152,13 @@ I enjoy designing clean backend architectures, building secure authentication sy
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Stats
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkswalih&theme=react&hide_border=true" />
+  <div align="center">
+   <img src="https://github-readme-stats.shion.dev/api?username=nkswalih&theme=merko&hide_border=true&include_all_commits=true&count_private=true"  height="165px"/>
+   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nkswalih&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br></br>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkswalih&theme=merko&hide_border=true" />
+  </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
 
   <!-- <img src="https://leetcard.jacoblin.cool/swalih_nk?font=sans-serif" alt="LeetCode Stats" width="55%" /> -->
