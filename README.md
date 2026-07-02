@@ -135,7 +135,7 @@ I enjoy designing clean backend architectures, building secure authentication sy
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://twitter.com/swwaliih" target="_blank">
+  <a href="https://x.com/swwaliih" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
@@ -145,6 +145,10 @@ I enjoy designing clean backend architectures, building secure authentication sy
 
   <a href="mailto:swalink555@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.behance.net/swalihnk1">
+    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 </p>
 
