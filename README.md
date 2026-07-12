@@ -109,9 +109,9 @@ I enjoy designing clean backend architectures, building secure authentication sy
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br>Python</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="48"/><br>Django</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-icon-svg-download-png-226047.png?f=webp&w=512s" width="48"/><br>PostgreSQL</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48"/><br>RestAPI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br>SQLite</td>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-icon-svg-download-png-1174941.png?f=webp&w=512" width="48"/><br>MySQL</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/><br>JavaScript</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48"/><br>React</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48"/><br>Redux Toolkit</td>
@@ -120,24 +120,26 @@ I enjoy designing clean backend architectures, building secure authentication sy
   <tr>
     <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-logo-icon-svg-download-png-2945092.png?f=webp&w=512" width="48"/><br>Postman</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48"/><br>AWS</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48"/><br>Docker</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48"/><br>Kubernetes</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48"/><br>Nginx</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>Vercel</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-  </tr>
-  <!-- <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/><br>JavaScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="48"/><br>React</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48"/><br>Redux Toolkit</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-vercel-icon-svg-download-png-14603539.png?f=webp&w=512" width="48"/><br>Vercel</td>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-icon-svg-download-png-14549510.png?f=webp&w=512" width="48"/><br>Linux</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-html-logo-icon-svg-download-png-2284975.png?f=webp&w=512" width="48"/><br>HTML5</td>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-css-icon-svg-download-png-722685.png?f=webp&w=512" width="48"/><br>CSS3</td>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-vite-icon-svg-download-png-14548000.png?f=webp&w=512" width="48"/><br>Vite</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="62"/><br>Prettier</td>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-npm-icon-svg-download-png-14549033.png?f=webp&w=512" width="48"/><br>NPM</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" /><br>Figma</td>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jira-icon-svg-download-png-1912014.png?f=webp&w=512" alt="JIRA" width="62" /><br>JIRA</td>
+    <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="Git" width="48" /><br>ChartJs</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
+  </tr>
+  <!-- <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48"/><br>AWS</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48"/><br>Docker</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>Vercel</td>
