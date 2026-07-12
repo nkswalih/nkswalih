@@ -137,27 +137,27 @@ I enjoy designing clean backend architectures, building secure authentication sy
 </p> -->
 <p align="center">
   <a href="https://github.com/nkswalih" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-svg-download-png-8630395.png?f=webp&w=512" alt="GitHub" height="40" />
   </a>
 
   <a href="https://linkedin.com/in/mohammedswalihnk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-svg-download-png-2284952.png?f=webp&w=512" alt="LinkedIn" height="40" />
   </a>
 
   <a href="https://x.com/swwaliih" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-logo-icon-svg-download-png-7651211.png?f=webp&w=512" alt="Twitter/X" height="40" />
   </a>
 
   <a href="https://instagram.com/swwaliih" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-svg-download-png-1583142.png?f=webp&w=512" alt="Instagram" height="40" />
   </a>
 
   <a href="mailto:swalink555@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-icon-svg-download-png-14865501.png?f=webp&w=512" alt="Gmail" height="40" />
   </a>
   
   <a href="https://www.behance.net/swalihnk1">
-    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-behance-logo-icon-svg-download-png-498430.png?f=webp&w=512" alt="Behance" height="40" />
   </a>
 </p>
 
