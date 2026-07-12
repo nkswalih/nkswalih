@@ -149,7 +149,7 @@ I enjoy designing clean backend architectures, building secure authentication sy
   </a>
 
   <a href="https://instagram.com/swwaliih" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-svg-download-png-1583142.png?f=webp&w=512" alt="Instagram" height="40" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-icon-svg-download-png-14549840.png?f=webp&w=512" alt="Instagram" height="40" />
   </a>
 
   <a href="mailto:swalink555@gmail.com">
