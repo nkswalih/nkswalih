@@ -106,6 +106,18 @@ I enjoy designing clean backend architectures, building secure authentication sy
   </a>
   
   <a href="https://www.behance.net/swalihnk1">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-discord-logo-icon-svg-download-png-2285027.png?f=webp&w=512" alt="Discord" height="40" />
+  </a>
+  
+  <a href="https://www.behance.net/swalihnk1">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-threads-icon-svg-download-png-14548193.png?f=webp&w=512" alt="Threads" height="40" />
+  </a>
+  
+  <a href="https://www.behance.net/swalihnk1">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-dribbble-logo-icon-svg-download-png-721947.png?f=webp&w=512" alt="Dribbble" height="40" />
+  </a>
+  
+  <a href="https://www.behance.net/swalihnk1">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-notion-icon-svg-download-png-1911999.png?f=webp&w=512" alt="Notion" height="40" />
   </a>
 </p>
