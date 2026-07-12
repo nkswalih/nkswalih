@@ -122,10 +122,13 @@ I enjoy designing clean backend architectures, building secure authentication sy
     <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-redis-icon-svg-download-png-1175105.png?f=webp&w=512" height="30"/><br><sub>Redis</sub></td>
     <td align="center" valign="middle" width="9.09%"><img src="https://products.containerize.com/message-queue-software/celery/menu_image.png" height="30"/><br><sub>Celery</sub></td>
     <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-fastapi-icon-svg-download-png-14550472.png?f=webp&w=512" height="30"/><br><sub>FastAPI</sub></td>
+    <td align="center" valign="middle" width="9.09%"><img src="https://iconlogovector.com/uploads/images/2024/09/lg-66d46715eaff2-AWS-DynamoDB.webp" height="30"/><br><sub>DynamoDB</sub></td>
     <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp&w=512" height="30"/><br><sub>JavaScript</sub></td>
     <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-icon-svg-download-png-2945272.png?f=webp&w=512" height="30"/><br><sub>TypeScript</sub></td>
     <td align="center" valign="middle" width="9.09%"><img src="https://techstack-generator.vercel.app/react-icon.svg" height="30"/><br><sub>React</sub></td>
     <td align="center" valign="middle" width="9.09%"><img src="https://techstack-generator.vercel.app/redux-icon.svg" height="30"/><br><sub>Redux</sub></td>
+    <td align="center" valign="middle"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" height="30"/><br><sub>GSAP</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-framer-3d-icon-png-download-7578003.png" height="30"/><br><sub>Framer</sub></td>
     <td align="center" valign="middle" width="9.09%"><img src="https://skillicons.dev/icons?i=tailwind" height="30"/><br><sub>Tailwind</sub></td>
   </tr>
   <tr>
@@ -136,9 +139,12 @@ I enjoy designing clean backend architectures, building secure authentication sy
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-apache-kafka-icon-svg-download-png-14603844.png?f=webp&w=512" height="30"/><br><sub>Kafka</sub></td>
     <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph.png" height="30"/><br><sub>LangGraph</sub></td>
     <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/aws-icon.svg" height="30"/><br><sub>AWS</sub></td>
+    <td align="center" valign="middle"><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="30"/><br><sub>Terraform</sub></td>
     <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/docker-icon.svg" height="30"/><br><sub>Docker</sub></td>
     <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" height="30"/><br><sub>Kubernates</sub></td>
     <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" height="30"/><br><sub>Nginx</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jwt-icon-svg-download-png-14550062.png?f=webp&w=512" height="30"/><br><sub>JWT</sub></td>
+    <td align="center" valign="middle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/3840px-WebSocket_colored_logo.svg.png" height="30"/><br><sub>WebSocket</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-vercel-icon-svg-download-png-14603761.png?f=webp&w=512" height="30"/><br><sub>Vercel</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-icon-svg-download-png-14549510.png?f=webp&w=512" height="30"/><br><sub>Linux</sub></td>
   </tr>
@@ -148,15 +154,16 @@ I enjoy designing clean backend architectures, building secure authentication sy
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-openrouter-icon-svg-download-png-14549124.png?f=webp&w=512" height="30"/><br><sub>ORouter</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-google-antigravity-icon-svg-download-png-14550243.png?f=webp&w=512" height="30"/><br><sub>AntiGravity</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-gpt-icon-svg-download-png-14426781.png?f=webp&w=512" height="30"/><br><sub>ChatGPT</sub></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/mcp.png" height="30"/><br><sub>MCP</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-vite-icon-svg-download-png-14548000.png?f=webp&w=512" height="30"/><br><sub>Vite</sub></td>
-    <!-- <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" height="30"/><br><sub>Prettier</sub></td> -->
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-sentry-logo-icon-svg-download-png-2284893.png?f=webp&w=512" alt="ChartJs" height="30" /><br><sub>Sentry</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-npm-icon-svg-download-png-14549033.png?f=webp&w=512" height="30"/><br><sub>NPM</sub></td>
     <td align="center" valign="middle"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2024/09/uv.svg.png" height="30"/><br><sub>UV</sub></td>
     <td align="center" valign="middle"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30" /><br><sub>Figma</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-logo-icon-svg-download-png-2945092.png?f=webp&w=512" height="30"/><br><sub>Postman</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jira-icon-svg-download-png-1912014.png?f=webp&w=512" alt="JIRA" height="30" /><br><sub>JIRA</sub></td>
-    <!-- <td align="center" valign="middle"><img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="ChartJs" height="30" /><br><sub>ChartJs</sub></td> -->
-    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-sentry-logo-icon-svg-download-png-2284893.png?f=webp&w=512" alt="ChartJs" height="30" /><br><sub>Sentry</sub></td>
+    <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" height="30"/><br><sub>Prettier</sub></td>
+    <td align="center" valign="middle"><img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="ChartJs" height="30" /><br><sub>ChartJs</sub></td>
   </tr>
 </table>
 
