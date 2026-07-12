@@ -113,59 +113,46 @@ I enjoy designing clean backend architectures, building secure authentication sy
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills 
 
 
-  <table align="center">
+<table align="center">
   <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="38"/><br>Python</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="38"/><br>Django</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="38"/><br>RestAPI</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-icon-svg-download-png-226047.png?f=webp&w=512s" width="38"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-redis-icon-svg-download-png-1175105.png?f=webp&w=512" width="38"/><br>Redis</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-fastapi-icon-svg-download-png-14550472.png?f=webp&w=512" width="38"/><br>FastAPI</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp&w=512" width="38"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-icon-svg-download-png-2945272.png?f=webp&w=512" width="38"/><br>TypeScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="38"/><br>React</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="38"/><br>Redux Toolkit</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="38"/><br>Tailwind</td>
-    
+    <td align="center" valign="middle" width="9.09%"><img src="https://techstack-generator.vercel.app/python-icon.svg" height="30"/><br><sub>Python</sub></td>
+    <td align="center" valign="middle" width="9.09%"><img src="https://techstack-generator.vercel.app/django-icon.svg" height="30"/><br><sub>Django</sub></td>
+    <td align="center" valign="middle" width="9.09%"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" height="30"/><br><sub>RestAPI</sub></td>
+    <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-icon-svg-download-png-226047.png?f=webp&w=512s" height="30"/><br><sub>Postgre</sub></td>
+    <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-redis-icon-svg-download-png-1175105.png?f=webp&w=512" height="30"/><br><sub>Redis</sub></td>
+    <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-fastapi-icon-svg-download-png-14550472.png?f=webp&w=512" height="30"/><br><sub>FastAPI</sub></td>
+    <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp&w=512" height="30"/><br><sub>JS</sub></td>
+    <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-icon-svg-download-png-2945272.png?f=webp&w=512" height="30"/><br><sub>TS</sub></td>
+    <td align="center" valign="middle" width="9.09%"><img src="https://techstack-generator.vercel.app/react-icon.svg" height="30"/><br><sub>React</sub></td>
+    <td align="center" valign="middle" width="9.09%"><img src="https://techstack-generator.vercel.app/redux-icon.svg" height="30"/><br><sub>Redux</sub></td>
+    <td align="center" valign="middle" width="9.09%"><img src="https://skillicons.dev/icons?i=tailwind" height="30"/><br><sub>Tailwind</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-langchain-icon-svg-download-png-14551501.png?f=webp&w=512" width="28"/><br>LangChain</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-prometheus-icon-svg-download-png-14548970.png?f=webp&w=512" width="38"/><br>Prometheus</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="38"/><br>Git</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-grafana-icon-svg-download-png-14550159.png?f=webp&w=512" width="38"/><br>Grafana</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-logo-icon-svg-download-png-2945092.png?f=webp&w=512" width="38"/><br>Postman</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="38"/><br>AWS</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="38"/><br>Docker</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="38"/><br>Kubernetes</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="38"/><br>Nginx</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-vercel-icon-svg-download-png-14603539.png?f=webp&w=512" width="38"/><br>Vercel</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-icon-svg-download-png-14549510.png?f=webp&w=512" width="38"/><br>Linux</td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-langchain-icon-svg-download-png-14551501.png?f=webp&w=512" height="30"/><br><sub>LangChain</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-prometheus-icon-svg-download-png-14548970.png?f=webp&w=512" height="30"/><br><sub>Prometh</sub></td>
+    <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="30"/><br><sub>Git</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-grafana-icon-svg-download-png-14550159.png?f=webp&w=512" height="30"/><br><sub>Grafana</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-logo-icon-svg-download-png-2945092.png?f=webp&w=512" height="30"/><br><sub>Postman</sub></td>
+    <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/aws-icon.svg" height="30"/><br><sub>AWS</sub></td>
+    <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/docker-icon.svg" height="30"/><br><sub>Docker</sub></td>
+    <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" height="30"/><br><sub>K8s</sub></td>
+    <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" height="30"/><br><sub>Nginx</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-vercel-icon-svg-download-png-14603539.png?f=webp&w=512" height="30"/><br><sub>Vercel</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-icon-svg-download-png-14549510.png?f=webp&w=512" height="30"/><br><sub>Linux</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-claude-icon-svg-download-png-14551541.png?f=webp&w=512" width="38"/><br>Claude</td>
-    <td align="center"><img src="https://opencode.ai/_build/assets/opencode-desktop-icon-OSkS5hfD.png" width="38"/><br>Opencode</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-openrouter-icon-svg-download-png-14549124.png?f=webp&w=512" width="28"/><br>OpenRouter</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-google-antigravity-icon-svg-download-png-14550243.png?f=webp&w=512" width="38"/><br>AntiGravity</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-gpt-icon-svg-download-png-14426781.png?f=webp&w=512" width="38"/><br>ChatGPT</td>
-    <!-- <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-opencode-icon-svg-download-png-14517819.png?f=webp&w=512" width="48"/><br>HTML5</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-css-icon-svg-download-png-722685.png?f=webp&w=512" width="48"/><br>CSS3</td> -->
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-vite-icon-svg-download-png-14548000.png?f=webp&w=512" width="38"/><br>Vite</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="38"/><br>Prettier</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-npm-icon-svg-download-png-14549033.png?f=webp&w=512" width="38"/><br>NPM</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="38" /><br>Figma</td>
-    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jira-icon-svg-download-png-1912014.png?f=webp&w=512" alt="JIRA" width="38" /><br>JIRA</td>
-    <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="Git" width="38" /><br>ChartJs</td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-claude-icon-svg-download-png-14551541.png?f=webp&w=512" height="30"/><br><sub>Claude</sub></td>
+    <td align="center" valign="middle"><img src="https://opencode.ai/_build/assets/opencode-desktop-icon-OSkS5hfD.png" height="30"/><br><sub>Opencode</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-openrouter-icon-svg-download-png-14549124.png?f=webp&w=512" height="30"/><br><sub>OpenRouter</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-google-antigravity-icon-svg-download-png-14550243.png?f=webp&w=512" height="30"/><br><sub>AntiGravity</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-gpt-icon-svg-download-png-14426781.png?f=webp&w=512" height="30"/><br><sub>ChatGPT</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-vite-icon-svg-download-png-14548000.png?f=webp&w=512" height="30"/><br><sub>Vite</sub></td>
+    <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" height="30"/><br><sub>Prettier</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-npm-icon-svg-download-png-14549033.png?f=webp&w=512" height="30"/><br><sub>NPM</sub></td>
+    <td align="center" valign="middle"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30" /><br><sub>Figma</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jira-icon-svg-download-png-1912014.png?f=webp&w=512" alt="JIRA" height="30" /><br><sub>JIRA</sub></td>
+    <td align="center" valign="middle"><img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="ChartJs" height="30" /><br><sub>ChartJs</sub></td>
   </tr>
-  <!-- <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48"/><br>AWS</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48"/><br>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>Vercel</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mint" width="48"/><br>Mint</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=unity" width="48"/><br>Unity Engine</td>
-  </tr> -->
-  
 </table>
 
 <!-- <p align="center">
