@@ -130,7 +130,7 @@ I enjoy designing clean backend architectures, building secure authentication sy
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-langchain-icon-svg-download-png-14551501.png?f=webp&w=512" height="30"/><br><sub>LangChain</sub></td>
-    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-prometheus-icon-svg-download-png-14548970.png?f=webp&w=512" height="30"/><br><sub>Prometh..</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-prometheus-icon-svg-download-png-14548970.png?f=webp&w=512" height="30"/><br><sub>Prometheus</sub></td>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="30"/><br><sub>Git</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-grafana-icon-svg-download-png-14550159.png?f=webp&w=512" height="30"/><br><sub>Grafana</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-apache-kafka-icon-svg-download-png-14603844.png?f=webp&w=512" height="30"/><br><sub>Kafka</sub></td>
