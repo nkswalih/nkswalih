@@ -100,6 +100,14 @@ I enjoy designing clean backend architectures, building secure authentication sy
   <a href="https://www.behance.net/swalihnk1">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-behance-logo-icon-svg-download-png-498430.png?f=webp&w=512" alt="Behance" height="40" />
   </a>
+  
+  <a href="https://www.behance.net/swalihnk1">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-pinterest-icon-svg-download-png-14541605.png?f=webp&w=512" alt="Pinterest" height="40" />
+  </a>
+  
+  <a href="https://www.behance.net/swalihnk1">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-notion-icon-svg-download-png-1911999.png?f=webp&w=512" alt="Notion" height="40" />
+  </a>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills 
