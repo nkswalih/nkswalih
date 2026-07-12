@@ -26,8 +26,6 @@
   <!-- <img src="https://img.shields.io/github/stars/nkswalih?label=Stars&style=for-the-badge&color=00c853" /> -->
 </p>
 
----
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
 
 Hi, I'm Mohammed Swalih 👋  
@@ -50,9 +48,6 @@ I enjoy designing clean backend architectures, building secure authentication sy
 | Observability | Prometheus, Grafana, Jaeger |
 
 
-
----
-
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJxbmsxOXdmcHB4YzI3MGp0ODFxd2s3cDJvM3RmNHk3dHpzd3dybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZbJCE0sGot1h4FZYK/giphy.gif" width ="25"><b> Currently Learning
 - FastAPI – High-performance API development & async architecture
 - Django advanced patterns — signals, custom middleware, multi-service architecture (you're already using these)
@@ -68,12 +63,44 @@ I enjoy designing clean backend architectures, building secure authentication sy
 - RAG pipelines — embeddings, vector stores, chunking strategies
 - Production AI — rate limiting, cost management, fallback strategies
 
----
 ## Current Projects
 
 - 🐍 **[Kraivor](https://github.com/nkswalih/kraivor)** - The Developer Inteligence Platform with Agentic AI.
 - 🛒 **[Echoo Ecommerce](https://echoo-ecommerce.vercel.app)** - Tech Based Ecommerce Shopping Platform
 - 🧑‍🎓 **[Student Management Portal](https://django-student-management.vercel.app/)** - modern, full-featured Student Management System built with Django
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThlMWR2aTk5MG52cGVkdGVnYzhwbmJpMmc4cDgwZXJoY3RudTJpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ir5ognfMO0xh5TAzT/giphy.gif" width ="25"><b> Connect With Me
+
+<!-- <p align="center">
+  <a href="https://linkedin.com/in/mohammedswalihnk" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-follow.png" alt="linkedin" height="100" width="100" /></a>
+  <a href="mailto:swalink555@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="email" height="50" width="50" /></a>
+  <a href="https://instagram.com/swwaliih" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-follow.png" alt="instagram" height="100" width="100" /></a>
+</p> -->
+<p align="center">
+  <a href="https://github.com/nkswalih" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-svg-download-png-8630395.png?f=webp&w=512" alt="GitHub" height="40" />
+  </a>
+
+  <a href="https://linkedin.com/in/mohammedswalihnk" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-svg-download-png-2284952.png?f=webp&w=512" alt="LinkedIn" height="40" />
+  </a>
+
+  <a href="https://x.com/swwaliih" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-logo-icon-svg-download-png-7651211.png?f=webp&w=512" alt="Twitter/X" height="40" />
+  </a>
+
+  <a href="https://instagram.com/swwaliih" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-icon-svg-download-png-14549840.png?f=webp&w=512" alt="Instagram" height="40" />
+  </a>
+
+  <a href="mailto:swalink555@gmail.com">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-icon-svg-download-png-14865501.png?f=webp&w=512" alt="Gmail" height="40" />
+  </a>
+  
+  <a href="https://www.behance.net/swalihnk1">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-behance-logo-icon-svg-download-png-498430.png?f=webp&w=512" alt="Behance" height="40" />
+  </a>
+</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills 
 
@@ -126,42 +153,6 @@ I enjoy designing clean backend architectures, building secure authentication sy
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
 </p> -->
 
----
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThlMWR2aTk5MG52cGVkdGVnYzhwbmJpMmc4cDgwZXJoY3RudTJpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ir5ognfMO0xh5TAzT/giphy.gif" width ="25"><b> Connect With Me
-
-<!-- <p align="center">
-  <a href="https://linkedin.com/in/mohammedswalihnk" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-follow.png" alt="linkedin" height="100" width="100" /></a>
-  <a href="mailto:swalink555@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" alt="email" height="50" width="50" /></a>
-  <a href="https://instagram.com/swwaliih" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-follow.png" alt="instagram" height="100" width="100" /></a>
-</p> -->
-<p align="center">
-  <a href="https://github.com/nkswalih" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-svg-download-png-8630395.png?f=webp&w=512" alt="GitHub" height="40" />
-  </a>
-
-  <a href="https://linkedin.com/in/mohammedswalihnk" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-svg-download-png-2284952.png?f=webp&w=512" alt="LinkedIn" height="40" />
-  </a>
-
-  <a href="https://x.com/swwaliih" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-logo-icon-svg-download-png-7651211.png?f=webp&w=512" alt="Twitter/X" height="40" />
-  </a>
-
-  <a href="https://instagram.com/swwaliih" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-icon-svg-download-png-14549840.png?f=webp&w=512" alt="Instagram" height="40" />
-  </a>
-
-  <a href="mailto:swalink555@gmail.com">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-icon-svg-download-png-14865501.png?f=webp&w=512" alt="Gmail" height="40" />
-  </a>
-  
-  <a href="https://www.behance.net/swalihnk1">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-behance-logo-icon-svg-download-png-498430.png?f=webp&w=512" alt="Behance" height="40" />
-  </a>
-</p>
-
----
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Stats
 <p align="center">
