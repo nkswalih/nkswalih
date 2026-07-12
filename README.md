@@ -55,9 +55,18 @@ I enjoy designing clean backend architectures, building secure authentication sy
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJxbmsxOXdmcHB4YzI3MGp0ODFxd2s3cDJvM3RmNHk3dHpzd3dybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZbJCE0sGot1h4FZYK/giphy.gif" width ="25"><b> Currently Learning
 - FastAPI – High-performance API development & async architecture
-- AWS (Cloud Basics) – Deployment, scalability & cloud services
-- System Design Fundamentals – Building scalable backend systems
-- Advanced PostgreSQL – Query optimization & database performance 
+- Django advanced patterns — signals, custom middleware, multi-service architecture (you're already using these)
+- Celery + Redis — task queues, retry logic, rate limiting (you have this in production)
+- PostgreSQL advanced — JSONB, materialized views, query optimization, connection pooling
+- AWS services you already use — DynamoDB, S3, ECS/Lambda
+- Docker + GitHub Actions CI/CD (your pipelines are already complex)
+- Monitoring — structured logging, CloudWatch, error tracking
+- Event-driven architecture — you already have signals + Kafka concepts
+- Multi-tenant patterns — workspace isolation, per-tenant scaling
+- API versioning & backward compatibility
+- LLM integration patterns — prompt engineering, function calling, streaming (you're building this)
+- RAG pipelines — embeddings, vector stores, chunking strategies
+- Production AI — rate limiting, cost management, fallback strategies
 
 ---
 ## Current Projects
