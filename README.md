@@ -130,7 +130,7 @@ I enjoy designing clean backend architectures, building secure authentication sy
     <td align="center" valign="middle" width="9.09%"><img src="https://techstack-generator.vercel.app/python-icon.svg" height="30"/><br><sub>Python</sub></td>
     <td align="center" valign="middle" width="9.09%"><img src="https://techstack-generator.vercel.app/django-icon.svg" height="30"/><br><sub>Django</sub></td>
     <td align="center" valign="middle" width="9.09%"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" height="30"/><br><sub>RestAPI</sub></td>
-    <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-icon-svg-download-png-226047.png?f=webp&w=512s" height="30"/><br><sub>Postgre</sub></td>
+    <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-icon-svg-download-png-226047.png?f=webp&w=512s" height="30"/><br><sub>Postgresql</sub></td>
     <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-redis-icon-svg-download-png-1175105.png?f=webp&w=512" height="30"/><br><sub>Redis</sub></td>
     <td align="center" valign="middle" width="9.09%"><img src="https://products.containerize.com/message-queue-software/celery/menu_image.png" height="30"/><br><sub>Celery</sub></td>
     <td align="center" valign="middle" width="9.09%"><img src="https://cdn.iconscout.com/icon/free/png-512/free-fastapi-icon-svg-download-png-14550472.png?f=webp&w=512" height="30"/><br><sub>FastAPI</sub></td>
