@@ -101,11 +101,11 @@ I enjoy designing clean backend architectures, building secure authentication sy
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-behance-logo-icon-svg-download-png-498430.png?f=webp&w=512" alt="Behance" height="40" />
   </a>
   
-  <a href="https://www.behance.net/swalihnk1">
+  <a href="https://in.pinterest.com/itteenio/">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-pinterest-icon-svg-download-png-14541605.png?f=webp&w=512" alt="Pinterest" height="40" />
   </a>
   
-  <a href="https://www.behance.net/swalihnk1">
+  <a href="https://discord.com/users/w3b.lad">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-discord-logo-icon-svg-download-png-2285027.png?f=webp&w=512" alt="Discord" height="40" />
   </a>
   
