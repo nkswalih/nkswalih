@@ -11,7 +11,7 @@
 <h3 align="center"> React.js | Next.js | Zustand | Typescript | Javascript | Tailwind CSS | SEO</h3> -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Frontend%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45&color=39D353">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20build%20software%20that%20scales;Full%20Stack%20Engineer;Building%20with%20AI%2C%20Python%20%26%20TypeScript;Systems%2C%20products%20%26%20open%20source;Currently%20building%20something%20new&font=Fira%20Code&center=true&width=600&height=45&color=F7DF1E">
 </a>
 </p>
 
@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nkswalih?label=Followers&style=for-the-badge&color=00c853" />
-  <img src="https://komarev.com/ghpvc/?username=nkswalih&label=Profile%20Views&style=for-the-badge&color=00c853" />
-  <!-- <img src="https://img.shields.io/github/stars/nkswalih?label=Stars&style=for-the-badge&color=00c853" /> -->
+  <img src="https://img.shields.io/github/followers/nkswalih?label=Followers&style=for-the-badge&color=F7DF1E" />
+  <img src="https://komarev.com/ghpvc/?username=nkswalih&label=Profile%20Views&style=for-the-badge&color=00BFFF" />
+  <img src="https://img.shields.io/github/stars/nkswalih?label=Stars&style=for-the-badge&color=F7DF1E" />
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
