@@ -204,7 +204,6 @@ I enjoy designing clean backend architectures, building secure authentication sy
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkswalih&theme=github-compact&hide_border=true&area=true"/>
 </p>
 
----
 <div align="center">
   <img src="https://raw.githubusercontent.com/nkswalih/nkswalih/output/github-contribution-grid-snake-dark.svg" alt="Alireza Rezvani GitHub contribution snake animation" />
 </div>
