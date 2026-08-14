@@ -162,12 +162,12 @@ I enjoy designing clean backend architectures, building secure authentication sy
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-claude-icon-svg-download-png-14551541.png?f=webp&w=512" height="30"/><br><sub>Claude</sub></td>
-    <td align="center" valign="middle"><img src="https://opencode.ai/_build/assets/opencode-desktop-icon-OSkS5hfD.png" height="30"/><br><sub>Opencode</sub></td>
-    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-openrouter-icon-svg-download-png-14549124.png?f=webp&w=512" height="30"/><br><sub>ORouter</sub></td>
-    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-google-antigravity-icon-svg-download-png-14550243.png?f=webp&w=512" height="30"/><br><sub>AntiGravity</sub></td>
-    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-gpt-icon-svg-download-png-14426781.png?f=webp&w=512" height="30"/><br><sub>ChatGPT</sub></td>
+    <td align="center" valign="middle"><img src="https://pub-6fb5f1860061469da0fd642d6d3a2bbd.r2.dev/opencodelogo2.png" height="30"/><br><sub>Opencode</sub></td>
+    <td align="center" valign="middle"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/replit-icon.png" height="30"/><br><sub>Replit</sub></td>
+    <td align="center" valign="middle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_AI_Studio_icon_%28May_2026%29.svg/3840px-Google_AI_Studio_icon_%28May_2026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="30"/><br><sub>Aistudio</sub></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" height="30"/><br><sub>Codex</sub></td>
     <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/mcp.png" height="30"/><br><sub>MCP</sub></td>
-    <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-vite-icon-svg-download-png-14548000.png?f=webp&w=512" height="30"/><br><sub>Vite</sub></td>
+    <td align="center" valign="middle"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" height="30"/><br><sub>Nextjs</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-sentry-logo-icon-svg-download-png-2284893.png?f=webp&w=512" alt="ChartJs" height="30" /><br><sub>Sentry</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-npm-icon-svg-download-png-14549033.png?f=webp&w=512" height="30"/><br><sub>NPM</sub></td>
     <td align="center" valign="middle"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2024/09/uv.svg.png" height="30"/><br><sub>UV</sub></td>
