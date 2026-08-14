@@ -11,7 +11,7 @@
 <h3 align="center"> React.js | Next.js | Zustand | Typescript | Javascript | Tailwind CSS | SEO</h3> -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20build%20software%20that%20scales;Full%20Stack%20Engineer;Building%20with%20AI%2C%20Python%20%26%20TypeScript;Systems%2C%20products%20%26%20open%20source;Currently%20building%20something%20new&font=Fira%20Code&center=true&width=600&height=45&color=F7DF1E">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20build%20software%20that%20scales;Full%20Stack%20Engineer;Building%20software%20people%20actually%20use;Systems%2C%20products%20%26%20open%20source;Currently%20building%20something%20new&font=Fira%20Code&center=true&width=600&height=45&color=F7DF1E">
 </a>
 </p>
 
