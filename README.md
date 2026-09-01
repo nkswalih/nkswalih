@@ -48,7 +48,7 @@ I enjoy designing clean backend architectures, building secure authentication sy
 | Observability | Prometheus, Grafana, Jaeger |
 
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJxbmsxOXdmcHB4YzI3MGp0ODFxd2s3cDJvM3RmNHk3dHpzd3dybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZbJCE0sGot1h4FZYK/giphy.gif" width ="25"><b> Currently Learning
+<!-- ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJxbmsxOXdmcHB4YzI3MGp0ODFxd2s3cDJvM3RmNHk3dHpzd3dybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZbJCE0sGot1h4FZYK/giphy.gif" width ="25"><b> Currently Learning
 - FastAPI – High-performance API development & async architecture
 - Django advanced patterns — signals, custom middleware, multi-service architecture (you're already using these)
 - Celery + Redis — task queues, retry logic, rate limiting (you have this in production)
@@ -61,13 +61,16 @@ I enjoy designing clean backend architectures, building secure authentication sy
 - API versioning & backward compatibility
 - LLM integration patterns — prompt engineering, function calling, streaming (you're building this)
 - RAG pipelines — embeddings, vector stores, chunking strategies
-- Production AI — rate limiting, cost management, fallback strategies
+- Production AI — rate limiting, cost management, fallback strategies -->
 
 ## Current Projects
 
-- 🐍 **[Kraivor](https://github.com/nkswalih/kraivor)** - The Developer Inteligence Platform with Agentic AI.
-- 🛒 **[Echoo Ecommerce](https://echoo-ecommerce.vercel.app)** - Tech Based Ecommerce Shopping Platform
-- 🧑‍🎓 **[Student Management Portal](https://django-student-management.vercel.app/)** - modern, full-featured Student Management System built with Django
+- 🐍 **[Kraivor](https://github.com/nkswalih/kraivor)** - Developer intelligence platform for team collaboration, community discussions, and automated codebase analysis.
+- ⚡ **[Kraivcode](https://github.com/nkswalih/kraivcode)** - High-performance Ratatui based coding agentic harness built with Rust for intelligent developer workflows.
+- 🏛️ **[Dunmorph](https://dunmorph.in/)** - Dunmoprh is production e-commerce platform powering an active apparel and lifestyle brand.
+- ♾️ **[EchOo](https://echoo-ecommerce.vercel.app)** - Production e-commerce platform for smartphones, laptops, and tech accessories.
+- 🏢 **[Zignature](https://zignature.co.in/)** - Zignature Semantics full-stack recruitment and business service platform.
+- 🧑‍🎓 **[StudPortal](https://django-student-management.vercel.app/)** - modern, full-featured Student Management System built with Django.
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThlMWR2aTk5MG52cGVkdGVnYzhwbmJpMmc4cDgwZXJoY3RudTJpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ir5ognfMO0xh5TAzT/giphy.gif" width ="25"><b> Connect With Me
 
@@ -204,9 +207,9 @@ I enjoy designing clean backend architectures, building secure authentication sy
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkswalih&theme=github-compact&hide_border=true&area=true"/>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/nkswalih/nkswalih/output/github-contribution-grid-snake-dark.svg" alt="Alireza Rezvani GitHub contribution snake animation" />
-</div>
+</div> -->
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=footer" width="100%" />
 </p> -->
