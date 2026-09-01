@@ -66,6 +66,7 @@ I enjoy designing clean backend architectures, building secure authentication sy
 ## Current Projects
 
 - 🐍 **[Kraivor](https://github.com/nkswalih/kraivor)** - Developer intelligence platform for team collaboration, community discussions, and automated codebase analysis.
+- 📘 **[Skyrict](https://github.com/nkswalih/skyrict)** - Next-gen business os featuring AI integrated ERP system, autonomous agents, and global market intelligence.
 - ⚡ **[Kraivcode](https://github.com/nkswalih/kraivcode)** - High-performance Ratatui based coding agentic harness built with Rust for intelligent developer workflows.
 - 🏛️ **[Dunmorph](https://dunmorph.in/)** - Dunmoprh is production e-commerce platform powering an active apparel and lifestyle brand.
 - ♾️ **[EchOo](https://echoo-ecommerce.vercel.app)** - Production e-commerce platform for smartphones, laptops, and tech accessories.
