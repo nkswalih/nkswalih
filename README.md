@@ -40,12 +40,16 @@ I enjoy designing clean backend architectures, building secure authentication sy
 
 | Category | Technologies |
 |----------|--------------|
-| Languages | Python , JavaScript (ES6+), SQL |
-| Backend | Django, Django REST Framework, Python, FastAPI, Microservices Architecture, Apache Kafka, Celery |
-| Frontend | React.js, Next.js, Zustand, Tailwind CSS |
-| Database | PostgreSQL (Indexing, Query Optimization, Transactions), Redis |
-| DevOps & Cloud | Docker, AWS EC2/RDS, Nginx, Gunicorn, GitHub Actions CI & CD |
-| Observability | Prometheus, Grafana, Jaeger |
+| Languages | Python, TypeScript, JavaScript (ES6+), SQL |
+| Frontend | React.js, Next.js, Redux Toolkit, Zustand, Tailwind CSS |
+| Backend | Django, Django REST Framework (DRF), FastAPI, REST APIs, WebSockets, JWT Authentication |
+| Database | PostgreSQL, DynamoDB, Redis, pgvector |
+| Cloud & DevOps | AWS (EKS, RDS, S3, Lambda), Docker, Kubernetes, Terraform, GitHub Actions, Nginx, Gunicorn |
+| Architecture & Systems | Microservices, System Design, Event-Driven Architecture, CQRS, Multi-Tenant Architecture |
+| Messaging & Task Processing | Apache Kafka, Celery, Redis |
+| AI & Machine Learning | AI Agents, RAG, LangChain, LangGraph, pgvector |
+| Observability | OpenTelemetry, Prometheus, Sentry, Structured Logging |
+| Authentication & Security | JWT Authentication, OAuth, Role-Based Access Control (RBAC), Multi-Tenant Workspace Isolation |
 
 
 <!-- ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJxbmsxOXdmcHB4YzI3MGp0ODFxd2s3cDJvM3RmNHk3dHpzd3dybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZbJCE0sGot1h4FZYK/giphy.gif" width ="25"><b> Currently Learning
