@@ -69,13 +69,15 @@ I enjoy designing clean backend architectures, building secure authentication sy
 
 ## Current Projects
 
-- 🐍 **[Kraivor](https://github.com/nkswalih/kraivor)** - Developer intelligence platform for team collaboration, community discussions, and automated codebase analysis.
-- 📘 **[Skyrict](https://github.com/nkswalih/skyrict)** - Next-gen business os featuring AI integrated ERP system, autonomous agents, and global market intelligence.
-- ⚡ **[Kraivcode](https://github.com/nkswalih/kraivcode)** - High-performance Ratatui based coding agentic harness built with Rust for intelligent developer workflows.
-- 🏛️ **[Dunmorph](https://dunmorph.in/)** - Dunmoprh is production e-commerce platform powering an active apparel and lifestyle brand.
-- ♾️ **[EchOo](https://echoo-ecommerce.vercel.app)** - Production e-commerce platform for smartphones, laptops, and tech accessories.
-- 🏢 **[Zignature](https://zignature.co.in/)** - Zignature Semantics full-stack recruitment and business service platform.
-- 🧑‍🎓 **[StudPortal](https://django-student-management.vercel.app/)** - modern, full-featured Student Management System built with Django.
+- 🐍 **[Kraivor](https://github.com/nkswalih/kraivor)** - Developer intelligence platform for codebase analysis, team collaboration, and AI-assisted development.
+- 📘 **[Skyrict](https://github.com/nkswalih/skyrict)** - AI-native business platform combining ERP workflows, autonomous agents, and market intelligence.
+- ⚡ **[Kraivcode](https://github.com/nkswalih/kraivcode)** - Rust-based coding agent harness built with Ratatui for terminal-native developer workflows.
+- 🏛️ **[Dunmorph](https://dunmorph.in/)** - Apparel and lifestyle e-commerce platform built for the Dunmorph brand.
+- ♾️ **[EchOo](https://echoo-ecommerce.vercel.app)** - E-commerce platform for smartphones, laptops, and technology accessories.
+- 🏢 **[Zignature](https://zignature.co.in/)** - Recruitment and career platform connecting workforce services, corporate operations, and career management.
+- 📄 **[AgentCV](https://github.com/nkswalih/AgentCV)** - Career platform for visual resume editing, cover letters, and application tracking.
+- 🔍 **[Jobblot](https://github.com/dennisjoseph2025/JobbLoot)** - AI-powered open-source job portal that fetches, matches, and applies to jobs all on autopilot.
+- 🧑‍🎓 **[StudPortal](https://django-student-management.vercel.app/)** - Django-based student management platform for academic and administrative workflows.
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThlMWR2aTk5MG52cGVkdGVnYzhwbmJpMmc4cDgwZXJoY3RudTJpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ir5ognfMO0xh5TAzT/giphy.gif" width ="25"><b> Connect With Me
 
