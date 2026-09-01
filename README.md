@@ -194,13 +194,13 @@ I enjoy designing clean backend architectures, building secure authentication sy
 </p> -->
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Stats
+<!-- ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Stats
 <p align="center">
   <div align="center">
    <img src="https://github-readme-stats.shion.dev/api?username=nkswalih&theme=merko&hide_border=true&include_all_commits=true&count_private=true"  height="165px"/>
    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nkswalih&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br></br>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkswalih&theme=merko&hide_border=true" />
-  </div>
+  </div> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
@@ -208,11 +208,11 @@ I enjoy designing clean backend architectures, building secure authentication sy
   <!-- <img src="https://leetcard.jacoblin.cool/swalih_nk?font=sans-serif" alt="LeetCode Stats" width="55%" /> -->
 </p>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU2NXE5Y2hyZTFiazVhdGs5c2F4b2cwZW42ZG1kdTJtNXdiYzEweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hZE5xoaM0Oxw4xiqH7/giphy.gif" width ="25"><b> Activity
+<!-- ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU2NXE5Y2hyZTFiazVhdGs5c2F4b2cwZW42ZG1kdTJtNXdiYzEweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hZE5xoaM0Oxw4xiqH7/giphy.gif" width ="25"><b> Activity
 <p align="center">
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkswalih&theme=react-dark&hide_border=true&area=true"/> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkswalih&theme=react-dark&hide_border=true&area=true"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nkswalih&theme=github-compact&hide_border=true&area=true"/>
-</p>
+</p> -->
 
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/nkswalih/nkswalih/output/github-contribution-grid-snake-dark.svg" alt="Alireza Rezvani GitHub contribution snake animation" />
