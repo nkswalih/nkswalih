@@ -35,7 +35,7 @@ I primarily work with Python, Django, Django REST Framework, React, and PostgreS
 
 I enjoy designing clean backend architectures, building secure authentication systems, and working on real-world full-stack applications. I’m also exploring microservices, distributed systems, CI/CD workflows, and scalable cloud infrastructure.
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXExcGhjMW10emthZGtmNmZ2eXVibWViOW1vMWJ0MjVuYjRncTRqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D80G19w5FoPuesfoMT/giphy.gif" width ="25px"><b> Tech Stack
+## Tech Stack
 
 
 | Category | Technologies |
