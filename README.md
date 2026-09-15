@@ -155,11 +155,11 @@ I enjoy designing clean backend architectures, building secure authentication sy
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-langchain-icon-svg-download-png-14551501.png?f=webp&w=512" height="30"/><br><sub>LangChain</sub></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph.png" height="30"/><br><sub>LangGraph</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-prometheus-icon-svg-download-png-14548970.png?f=webp&w=512" height="30"/><br><sub>Prometheus</sub></td>
     <td align="center" valign="middle"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="30"/><br><sub>Git</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-grafana-icon-svg-download-png-14550159.png?f=webp&w=512" height="30"/><br><sub>Grafana</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-apache-kafka-icon-svg-download-png-14603844.png?f=webp&w=512" height="30"/><br><sub>Kafka</sub></td>
-    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph.png" height="30"/><br><sub>LangGraph</sub></td>
     <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/aws-icon.svg" height="30"/><br><sub>AWS</sub></td>
     <td align="center" valign="middle"><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" height="30"/><br><sub>Terraform</sub></td>
     <td align="center" valign="middle"><img src="https://techstack-generator.vercel.app/docker-icon.svg" height="30"/><br><sub>Docker</sub></td>
@@ -173,7 +173,7 @@ I enjoy designing clean backend architectures, building secure authentication sy
   <tr>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-claude-icon-svg-download-png-14551541.png?f=webp&w=512" height="30"/><br><sub>Claude</sub></td>
     <td align="center" valign="middle"><img src="https://pub-6fb5f1860061469da0fd642d6d3a2bbd.r2.dev/opencodelogo2.png" height="30"/><br><sub>Opencode</sub></td>
-    <td align="center" valign="middle"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/replit-icon.png" height="30"/><br><sub>Replit</sub></td>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/notebooklm.png" height="30"/><br><sub>NoteLM</sub></td>
     <td align="center" valign="middle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_AI_Studio_icon_%28May_2026%29.svg/3840px-Google_AI_Studio_icon_%28May_2026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="30"/><br><sub>Aistudio</sub></td>
     <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" height="30"/><br><sub>Codex</sub></td>
     <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/mcp.png" height="30"/><br><sub>MCP</sub></td>
