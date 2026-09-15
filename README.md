@@ -28,7 +28,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
 
-Hi, I'm Mohammed Swalih 👋  
+<h4 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18">, I'm Mohammed Swalih NK</h4>
 A Backend / Full Stack Developer passionate about building scalable web applications and production-ready systems.
 
 I primarily work with Python, Django, Django REST Framework, React, and PostgreSQL, with hands-on experience in REST APIs, JWT Authentication, Dockerized environments, and AWS deployments.
