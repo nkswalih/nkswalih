@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/github/stars/nkswalih?label=Stars&style=for-the-badge&color=F7DF1E" />
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px></picture> About Me
 
 <h4 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18">, I'm Mohammed Swalih NK</h4>
 A Backend / Full Stack Developer passionate about building scalable web applications and production-ready systems.
@@ -67,7 +67,7 @@ I enjoy designing clean backend architectures, building secure authentication sy
 - RAG pipelines — embeddings, vector stores, chunking strategies
 - Production AI — rate limiting, cost management, fallback strategies -->
 
-## Current Projects
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVpZ3kwaDVqNG5tcTM2aDVubDg3emZzZGszNzFneXRjYjJoZWp3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DfG3OTaVCOJGAieH8l/giphy.gif" width ="25px"><b> Current Projects
 
 - 🐍 **[Kraivor](https://github.com/nkswalih/kraivor)** - Developer intelligence platform for codebase analysis, team collaboration, and AI-assisted development.
 - 📘 **[Skyrict](https://github.com/nkswalih/skyrict)** - AI-native business platform combining ERP workflows, autonomous agents, and market intelligence.
@@ -79,7 +79,7 @@ I enjoy designing clean backend architectures, building secure authentication sy
 - 🔍 **[Jobblot](https://github.com/dennisjoseph2025/JobbLoot)** - AI-powered open-source job portal that fetches, matches, and applies to jobs all on autopilot.
 - 🧑‍🎓 **[StudPortal](https://django-student-management.vercel.app/)** - Django-based student management platform for academic and administrative workflows.
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThlMWR2aTk5MG52cGVkdGVnYzhwbmJpMmc4cDgwZXJoY3RudTJpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ir5ognfMO0xh5TAzT/giphy.gif" width ="25"><b> Connect With Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThlMWR2aTk5MG52cGVkdGVnYzhwbmJpMmc4cDgwZXJoY3RudTJpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ir5ognfMO0xh5TAzT/giphy.gif" width ="25px"><b> Connect With Me
 
 <!-- <p align="center">
   <a href="https://linkedin.com/in/mohammedswalihnk" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-follow.png" alt="linkedin" height="100" width="100" /></a>
@@ -132,7 +132,7 @@ I enjoy designing clean backend architectures, building secure authentication sy
   </a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25px"><b> Skills 
 
 
 <table align="center">
