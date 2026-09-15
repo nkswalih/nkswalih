@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/nkswalih?label=Followers&style=for-the-badge&color=F7DF1E" />
-  <img src="https://komarev.com/ghpvc/?username=nkswalih&label=Profile%20Views&style=for-the-badge&color=00BFFF" />
+  <img src="https://komarev.com/ghpvc/?username=nkswalih&label=Profile%20Views&style=for-the-badge&color=000000" />
   <img src="https://img.shields.io/github/stars/nkswalih?label=Stars&style=for-the-badge&color=F7DF1E" />
 </p>
 
