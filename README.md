@@ -173,10 +173,10 @@ I enjoy designing clean backend architectures, building secure authentication sy
   <tr>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-claude-icon-svg-download-png-14551541.png?f=webp&w=512" height="30"/><br><sub>Claude</sub></td>
     <td align="center" valign="middle"><img src="https://pub-6fb5f1860061469da0fd642d6d3a2bbd.r2.dev/opencodelogo2.png" height="30"/><br><sub>Opencode</sub></td>
-    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/notebooklm.png" height="30"/><br><sub>NoteLM</sub></td>
+    <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/notebook-lm-dark.webp" height="20"/><br><sub>NoteLM</sub></td>
     <td align="center" valign="middle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_AI_Studio_icon_%28May_2026%29.svg/3840px-Google_AI_Studio_icon_%28May_2026%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="30"/><br><sub>Aistudio</sub></td>
-    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" height="30"/><br><sub>Codex</sub></td>
-    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/mcp.png" height="30"/><br><sub>MCP</sub></td>
+    <td align="center" valign="middle"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/codex-icon.png" height="30"/><br><sub>Codex</sub></td>
+    <td align="center" valign="middle"><img src="https://images.ctfassets.net/un655fb9wln6/appIcon-mcp-client/0f0f9894094d49e4da76251a57ee588f/mcp-client.png" height="30"/><br><sub>MCP</sub></td>
     <td align="center" valign="middle"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" height="30"/><br><sub>Nextjs</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-sentry-logo-icon-svg-download-png-2284893.png?f=webp&w=512" alt="ChartJs" height="30" /><br><sub>Sentry</sub></td>
     <td align="center" valign="middle"><img src="https://cdn.iconscout.com/icon/free/png-512/free-npm-icon-svg-download-png-14549033.png?f=webp&w=512" height="30"/><br><sub>NPM</sub></td>
